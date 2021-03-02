@@ -1,0 +1,9 @@
+title: Graphen
+language: English
+summary: |-
+  Kotlin course.
+  Created: Mar 2, 2021, 3:02:29 PM.
+programming_language: Kotlin
+content:
+- VerweisGraph
+solutions_hidden: true

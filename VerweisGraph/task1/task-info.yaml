@@ -1,0 +1,32 @@
+type: edu
+files:
+- name: test/Tests.kt
+  visible: false
+- name: Bilder/Ammerseerundfahrt.png
+  visible: true
+- name: Bilder/Klassendiagramm.png
+  visible: true
+- name: src/Datenelement.kt
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 108
+    placeholder_text: TODO()
+- name: src/Graph.kt
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 2013
+    placeholder_text: TODO()
+- name: src/Kante.kt
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 70
+    placeholder_text: TODO()
+- name: src/Knoten.kt
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 105
+    placeholder_text: TODO()

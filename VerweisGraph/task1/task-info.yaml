@@ -4,8 +4,6 @@ files:
   visible: false
 - name: Bilder/Ammerseerundfahrt.png
   visible: true
-- name: Bilder/Klassendiagramm.png
-  visible: true
 - name: src/Datenelement.kt
   visible: true
   placeholders:
@@ -30,3 +28,5 @@ files:
   - offset: 0
     length: 105
     placeholder_text: TODO()
+- name: Bilder/Klassendiagramm.png
+  visible: true

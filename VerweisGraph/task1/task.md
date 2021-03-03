@@ -3,15 +3,18 @@
 Implementieren Sie einen VerweisGraph nach dem folgenden Klassendiagramm
 ![Bild](Bilder/Klassendiagramm.png)
 
+Hinweis: Für die Testimplementierung in diesem Kurs, ist nur der Ortsname relevant. Übernachtungsmöglichkeiten und
+Sehenswürdigkeiten können weggelassen werden.
 
 ## Aufgabe 2
 Legen Sie anschließend den nachfolgenden Graphen in Ihrer Datenstruktur ab und überprüfen Sie die Korrektheit.
 ![Bild](Bilder/Ammerseerundfahrt.png)
 
-## Aufgabe 3
-Schreiben Sie Methoden für die folgenden Funktionen der Klasse `Graph
 
-1. `sucheKnoten(knoten : Knoten) : Boolean`
+## Aufgabe 3
+Schreiben Sie Methoden für die folgenden Funktionen der Klasse `Graph`
+
+1. `fun sucheKnoten(knoten : Knoten) : Boolean`
    Sucht eines Knoten (meldet, ob ein Knoten im Graph vorhanden ist)
 
 2. `fun sucheKnoten(knoten : String) : Boolean`

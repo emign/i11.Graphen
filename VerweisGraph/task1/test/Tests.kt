@@ -32,7 +32,6 @@ class Test {
     @Test
     fun testSucheKnotenByName() {
         Assert.assertTrue(ammerseeRundfahrt.sucheKnoten(knoten.random().inhalt.ortsname))
-
     }
 
     @Test
